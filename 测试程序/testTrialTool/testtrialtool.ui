@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>testTrialToolClass</class>
+ <widget class="QWidget" name="testTrialToolClass" >
+  <property name="objectName" >
+   <string notr="true">testTrialToolClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>testTrialTool</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="testtrialtool.qrc"/>
+ </resources>
+ <connections/>
+</UI>

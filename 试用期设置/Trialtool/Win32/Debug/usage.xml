@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UsageConfig description="用户使用权限配置">
+	<IsPermanent>0</IsPermanent>
+	<CDKey>BvIHfCbW5b</CDKey>
+	<fisrtUsageDate>1995.09.02</fisrtUsageDate>
+	<viableDays>4</viableDays>
+	<viableTimes>6</viableTimes>
+</UsageConfig>
